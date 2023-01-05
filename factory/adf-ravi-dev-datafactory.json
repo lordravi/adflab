@@ -1,0 +1,9 @@
+{
+	"name": "adf-ravi-dev-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29eaf006-681f-4931-a1d0-3c8907b2255e",
+		"tenantId": "d5731cfc-a2e8-4b23-9655-b300aab00f8d"
+	}
+}
